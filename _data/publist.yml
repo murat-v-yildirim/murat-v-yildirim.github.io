@@ -1,5 +1,5 @@
 - title: "Large Scale Maintenance and Unit Commitment A Decentralized Subgradient Approach"
-  image: Pairs3.png
+  image: DecentCBM.png
   description: We provide a novel decentralized optimization framework for solving large-scale, joint unit commitment and condition based maintenance problems. Our approach relies on the novel use of the subgradient method to temporally decouple various subproblems of the ADMM-based formulation of the joint problem along the maintenance horizon. By effectively utilizing multithreading, our decentralized subgradient approach delivers superior computational performance and eliminates the need to move sensor data thereby alleviating privacy and security concerns. 
   authors: Paritosh Ramanan, Murat Yildirim, Nagi Gebraeel, Edmond Chow
   link:
