@@ -1,12 +1,12 @@
 - title: "Large Scale Maintenance and Unit Commitment A Decentralized Subgradient Approach"
   image: Pairs3.png
-  description: We develop a decentralized optimization method for large-scale operations and maintenance problem in power systems
-  authors: Ramanan P., Yıldırım M., Gebraeel N., Chow E.
+  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
+  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9444790
-    display: IEEE Transactions on Power Systems 37.1 (2021): 237-248.
-  highlight: 1
-  news2: See also (https://arxiv.org/pdf/2010.09055.pdf)
+    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
+    display:  arXiv:2107.14716 (2021)
+  highlight: 0
+  news2:
 
 - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
   image: TBG_SL.png
