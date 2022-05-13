@@ -20,9 +20,9 @@ permalink: /
 
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WSU.jpg" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_WSU.jpg" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.jpg" style="width: 80px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DOE.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANL.png" style="width: 140px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Ford.png" style="width: 140px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_DOE.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ANL.png" style="width: 130px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Ford.png" style="width: 130px">
 </figure>
