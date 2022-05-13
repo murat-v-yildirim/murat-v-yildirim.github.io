@@ -1,12 +1,12 @@
 - title: "Large Scale Maintenance and Unit Commitment A Decentralized Subgradient Approach"
   image: Pairs3.png
-  description: Why is there so much variation in TBG devices? And are open devices more disordered than encapsulated ones? We introduce a new method to continuously map inhomogeneities of a moiré lattice and apply it to open-device TBG to show that twist angle variation is small over areas of hundreds of nm.
-  authors: TA de Jong, T Benschop, X Chen, EE Krasovskii, MJA de Dood, RM Tromp,  MP Allan, SJ van der Molen
+  description: We provide a novel decentralized optimization framework for solving large-scale, joint unit commitment and condition based maintenance problems. Our approach relies on the novel use of the subgradient method to temporally decouple various subproblems of the ADMM-based formulation of the joint problem along the maintenance horizon. By effectively utilizing multithreading, our decentralized subgradient approach delivers superior computational performance and eliminates the need to move sensor data thereby alleviating privacy and security concerns. 
+  authors: Paritosh Ramanan, Murat Yildirim, Nagi Gebraeel, Edmond Chow
   link:
-    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.013153
-    display:  arXiv:2107.14716 (2021)
+    url: https://ieeexplore.ieee.org/abstract/document/9444790?casa_token=KGqbGI2DzCoAAAAA:vhRsRiQn_E03f6d3G2roop-sPOeyipTlv_zG3R_yWY_04CGNvk-tGS6vKiNjB5TD5gTeyWbWpw
+    display: IEEE Transactions on Power Systems 37.1 (2021)
   highlight: 1
-  news2:
+  news2: See also [arXiv](https://arxiv.org/pdf/2010.09055.pdf)
 
 - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
   image: TBG_SL.png
