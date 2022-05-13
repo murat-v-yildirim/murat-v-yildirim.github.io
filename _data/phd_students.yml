@@ -1,14 +1,3 @@
-- name: Murat Yildirim
-  photo: Murat.jpg
-  info: Assistant professor, started Jan 2019
-  email: murat@wayne.edu
-  number_educ: 5
-  education1: Postdoc at Industrial and Systems Engineering, Georgia Institute of Technology
-  education2: PhD in System Informatics and Control, Industrial and Systems Engineering, Georgia Institute of Technology
-  education3: MSc in Operations Research, Georgia Institute of Technology
-  education4: BSc in Industrial Engineering, Georgia Institute of Technology
-  education5: BSs in Electrical Engineering, Georgia Institute of Technology
-
 - name: Farnaz Fallahi
   photo: Farnaz.png
   info: PhD Student, started Aug 2018
