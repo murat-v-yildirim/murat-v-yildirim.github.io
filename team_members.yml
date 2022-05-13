@@ -1,0 +1,55 @@
+- name: Murat Yildirim
+  photo: Murat.jpg
+  info: Assistant professor, started Jan 2019
+  email: murat@wayne.edu
+  number_educ: 5
+  education1: Postdoc at Industrial and Systems Engineering, Georgia Institute of Technology
+  education2: PhD in System Informatics and Control, Industrial and Systems Engineering, Georgia Institute of Technology
+  education3: MSc in Operations Research, Georgia Institute of Technology
+  education4: BSc in Industrial Engineering, Georgia Institute of Technology
+  education5: BSs in Electrical Engineering, Georgia Institute of Technology
+
+- name: Farnaz Fallahi
+  photo: Farnaz.png
+  info: PhD Student, started Aug 2018
+  email: farnaz.fallahi@wayne.edu
+  number_educ: 3
+  education1: Focus Area - Prognostics, Energy Systems Modeling, Large-Scale Optimization
+  education2: MSc in Industrial & Systems Engineering, Sharif University of Technology, Iran
+  education3: BSc in Pure Mathematics, AmirKabir University of Technology, Iran
+
+- name: Nur Banu Altinpulluk
+  photo: NurBanu.png
+  info: PhD Student, started Aug 2019
+  email: nurbanu@wayne.edu
+  number_educ: 3
+  education1: Focus Area - Prognostics, Deep Learning, Interface of Machine Learning and Optimization
+  education2: MSc in Industrial Engineering, Middle East Technical University
+  education3: BSc in Industrial Engineering, Middle East Technical University
+
+- name: Deniz Altinpulluk
+  photo: Deniz.png
+  info: PhD Student, started Aug 2019
+  email: deniz@wayne.edu
+  number_educ: 3
+  education1: Focus Area - Prognostics, Robust Optimization, Energy and Mobility Systems
+  education2: MSc in Industrial Engineering, Middle East Technical University
+  education3: BSc in Industrial Engineering, Middle East Technical University
+
+- name: Abdullah Alanazi
+  photo: Abdullah.png
+  info: PhD Student, started Aug 2019
+  email: ep8281@wayne.edu
+  number_educ: 2
+  education1: Focus Area - Prognostics, Energy Efficiency, Manufacturing Systems
+  education2: BSc in Industrial Engineering, King Saud University
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  email: milan.allan@gmail.com
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
