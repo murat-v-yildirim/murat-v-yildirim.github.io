@@ -1,12 +1,12 @@
-- title: "Large-Scale Maintenance and Unit Commitment - A Decentralized Subgradient Approach"
+- title: "Large Scale Maintenance and Unit Commitment A Decentralized Subgradient Approach"
   image: Pairs3.png
   description: We develop a decentralized optimization method for large-scale operations and maintenance problem in power systems
   authors: Ramanan P., Yıldırım M., Gebraeel N., Chow E.
   link:
-    url: https://arxiv.org/pdf/2010.09055.pdf
+    url: https://ieeexplore.ieee.org/abstract/document/9444790
     display: IEEE Transactions on Power Systems 37.1 (2021): 237-248.
   highlight: 1
-  news2:
+  news2: See also (https://arxiv.org/pdf/2010.09055.pdf)
 
 - title: "Imaging moiré deformation and dynamics in twisted bilayer graphene"
   image: TBG_SL.png
