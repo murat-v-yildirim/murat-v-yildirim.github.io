@@ -48,7 +48,7 @@
   highlight: 0
   news2:
 
-- title: "Sensor-Driven Microgrid Generation Maintenance: Formulation and Impact on Operations & Resilience"
+- title: "Leveraging Predictive Analytics to Control and Coordinate Operations, Asset Loading and Maintenance"
   image:
   description:
   authors: Murat Yildirim, Nagi Gebraeel, Andy Sun
@@ -68,3 +68,42 @@
   highlight: 0
   news2:
 
+- title: "Stochastic Optimization of Maintenance and Operations Schedules under Unexpected Failures"
+  image:
+  description:
+  authors: Beste Basciftci, Shabbir Ahmed, Nagi Gebraeel, Murat Yildirim
+  link:
+    url: https://engineering.wayne.edu/industrial-systems/pdfs/j4_stochastic_optimization_of_maintenance_and_operations_schedules_under_unexpected_failures.pdf
+    display: IEEE Transactions on Power Systems 33.6 (2018)
+  highlight: 0
+  news2:
+
+- title: "Integrated Predictive Analytics & Optimization for Wind Farm Maintenance and Operations"
+  image: WindFarm.png
+  description: This paper proposes an integrated framework for wind farm maintenance that combines i) predictive analytics methodology that uses real-time sensor data to predict future degradation and remaining lifetime of wind turbines, with ii) a novel optimization model that transforms these predictions into profit-optimal maintenance and operational decisions for wind farms. To date, most applications of predictive analytics focus on single turbine systems. In contrast, this paper provides a seamless integration of the predictive analytics with decision making for a fleet of wind turbines.
+  authors: Murat Yildirim, Nagi Gebraeel, Andy Sun
+  link:
+    url: https://engineering.wayne.edu/industrial-systems/pdfs/j5_integrated_predictive_analytics_and_optimization_for_wind_farm_maintenance_and_operations.pdf
+    display: IEEE Transactions on power systems 32.6 (2017)
+  highlight: 1
+  news2:
+
+- title: "Sensor-Driven Condition-Based Generator Maintenance Scheduling. Part 1 - Maintenance Problem"
+  image:
+  description:
+  authors: Murat Yildirim, Nagi Gebraeel, Andy Sun
+  link:
+    url: https://engineering.wayne.edu/industrial-systems/pdfs/j6_sensor-driven_condition-based_generator_maintenance_scheduling_part_1_maintenance_problem.pdf
+    display: IEEE Transactions on Power Systems 31.6 (2016)
+  highlight: 0
+  news2:
+
+- title: "Sensor-Driven Condition-Based Generator Maintenance Scheduling. Part 2 - Integrating Operations"
+  image:
+  description:
+  authors: Murat Yildirim, Nagi Gebraeel, Andy Sun
+  link:
+    url: https://engineering.wayne.edu/industrial-systems/pdfs/j7_sensor-driven_condition-based_generator_maintenance_scheduling_part_2_integrating_operations.pdf
+    display: IEEE Transactions on Power Systems 31.6 (2016)
+  highlight: 0
+  news2:
