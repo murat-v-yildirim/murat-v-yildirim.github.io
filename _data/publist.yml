@@ -16,7 +16,7 @@
     url: https://arxiv.org/pdf/2012.14926.pdf
     display: IEEE Transactions on Power Systems 36.6 (2021)
   highlight: 1
-  news2: See also [arXiv](https://arxiv.org/pdf/2012.14926.pdf)
+  news2:
 
 - title: "An Integrated Optimization Framework for Multi-Component Predictive Analytics in Wind Farm Operations & Maintenance"
   image: RSER1.png
@@ -29,7 +29,7 @@
   news2:
 
 - title: "Optimal Multi-Type Inspection Policy for Systems with Imperfect Online Monitoring"
-  image: RSER1.png
+  image: 
   description: N/A
   authors: Liu, Xingchen, Qiuzhuang Sun, Zhi-Sheng Ye, and Murat Yildirim
   link:
@@ -37,3 +37,34 @@
     display: Reliability Engineering & System Safety 207 (2021)
   highlight: 0
   news2:
+
+- title: "Severity-Based Diagnosis for Vehicular Electric Systems with Multiple, Interacting Fault Modes"
+  image: 
+  description: N/A
+  authors: Peters, Benjamin, Murat Yildirim, Nagi Gebraeel, and Kamran Paynabar
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0951832019304661
+    display: Reliability Engineering & System Safety 195 (2020)
+  highlight: 0
+  news2:
+
+- title: "Sensor-Driven Microgrid Generation Maintenance: Formulation and Impact on Operations & Resilience"
+  image:
+  description:
+  authors: Murat Yildirim, Nagi Gebraeel, Andy Sun
+  link:
+    url: https://engineering.wayne.edu/industrial-systems/pdfs/j2_leveraging_predictive_analytics_to_control_and_coordinate_operationsasset_loading_and_maintenance_final-2.pdf
+    display: IEEE Transactions on Power Systems 34.6 (2019)
+  highlight: 0
+  news2:
+
+- title: "An Asynchronous, Decentralized Solution Framework for the Large Scale Unit Commitment Problem"
+  image:
+  description:
+  authors: Paritosh Ramanan, Murat Yildirim, Nagi Gebraeel, Edmond Chow
+  link:
+    url: https://engineering.wayne.edu/industrial-systems/pdfs/j3_an_asynchronousdecentralized_solution_framework_for_the_large_scale_unit_commitment_problem.pdf
+    display: IEEE Transactions on Power Systems 34.5 (2019)
+  highlight: 0
+  news2:
+
