@@ -7,7 +7,16 @@
   education2: PhD in System Informatics and Control, Industrial and Systems Engineering, Georgia Institute of Technology
   education3: MSc in Operations Research, Georgia Institute of Technology
   education4: BSc in Industrial Engineering, Georgia Institute of Technology
-  education5: BSc in Electrical Engineering, Georgia Institute of Technology
+  education5: BSs in Electrical Engineering, Georgia Institute of Technology
+
+- name: Farnaz Fallahi
+  photo: Farnaz.png
+  info: PhD Student, started Aug 2018
+  email: farnaz.fallahi@wayne.edu
+  number_educ: 3
+  education1: Focus Area: Prognostics, Energy Systems Modeling, Large-Scale Optimization
+  education2: MSc in Industrial & Systems engineering, Sharif University of Technology, Iran
+  education3: BSc in Pure Mathematics, AmirKabir University of Technology, Iran
 
 - name: Jiasen Niu
   photo: Jiasen.png
