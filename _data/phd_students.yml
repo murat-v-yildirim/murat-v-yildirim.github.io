@@ -13,8 +13,8 @@
   email: nurbanu@wayne.edu
   number_educ: 3
   education1: Focus Area - Prognostics, Deep Learning, Interface of Machine Learning and Optimization
-  education2: MSc in Industrial Engineering, Middle East Technical University
-  education3: BSc in Industrial Engineering, Middle East Technical University
+  education2: MSc in Industrial Engineering, Middle East Technical University, Turkey
+  education3: BSc in Industrial Engineering, Middle East Technical University, Turkey
 
 - name: Deniz Altinpulluk
   photo: Deniz.png
@@ -22,8 +22,8 @@
   email: deniz@wayne.edu
   number_educ: 3
   education1: Focus Area - Prognostics, Robust Optimization, Energy and Mobility Systems
-  education2: MSc in Industrial Engineering, Middle East Technical University
-  education3: BSc in Industrial Engineering, Middle East Technical University
+  education2: MSc in Industrial Engineering, Middle East Technical University, Turkey
+  education3: BSc in Industrial Engineering, Middle East Technical University, Turkey
 
 - name: Abdullah Alanazi
   photo: Abdullah.png
@@ -31,7 +31,25 @@
   email: ep8281@wayne.edu
   number_educ: 2
   education1: Focus Area - Prognostics, Energy Efficiency, Manufacturing Systems
-  education2: BSc in Industrial Engineering, King Saud University
+  education2: BSc in Industrial Engineering, King Saud University, Saudi Arabia
+
+- name: Iman Kazemian
+  photo: Iman.png
+  info: PhD Student, starting Aug 2022
+  email: deniz@wayne.edu
+  number_educ: 3
+  education1: Focus Area - Prognostics, Robust Optimization, Energy and Mobility Systems
+  education2: MSc in Industrial Engineering, Sharif University of Technology, Iran
+  education3: BSc in Industrial Engineering, Isfahan University of Technology, Iran
+
+- name: Muhammet Ceyhan Sahin
+  photo: Ceyhan.jpg
+  info: PhD Student, starting Aug 2022
+  email: ceyhan@wayne.edu
+  number_educ: 3
+  education1: Focus Area - Prognostics, Large-Scale Optimization, Wind Energy
+  education2: MSc in Industrial Engineering, Middle East Technical University, Turkey
+  education3: BSc in Industrial Engineering, Middle East Technical University, Turkey
 
 - name: "This could be you !"
   photo: rock.jpg
