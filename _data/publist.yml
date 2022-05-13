@@ -3,17 +3,37 @@
   description: We provide a novel decentralized optimization framework for solving large-scale, joint unit commitment and condition based maintenance problems. The proposed framework enhances computational efficiency and privacy.
   authors: Paritosh Ramanan, Murat Yildirim, Nagi Gebraeel, Edmond Chow
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9444790?casa_token=KGqbGI2DzCoAAAAA:vhRsRiQn_E03f6d3G2roop-sPOeyipTlv_zG3R_yWY_04CGNvk-tGS6vKiNjB5TD5gTeyWbWpw
+    url: https://arxiv.org/pdf/2010.09055.pdf
     display: IEEE Transactions on Power Systems 37.1 (2021)
   highlight: 1
-  news2: See also [arXiv](https://arxiv.org/pdf/2010.09055.pdf)
+  news2:
 
 - title: "Sensor-Driven Microgrid Generation Maintenance: Formulation and Impact on Operations & Resilience"
   image: Resilience.png
   description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases the impact of condition based maintenance on profitability, reliability and resilience.
-  authors: Paritosh Ramanan, Murat Yildirim, Nagi Gebraeel, Edmond Chow
+  authors: Farnaz Fallahi, Murat Yildirim, Jeremy Lin, Caisheng Wang
   link:
-    url: https://ieeexplore.ieee.org/abstract/document/9404008?casa_token=Cmmb_aEc4TIAAAAA:j0iRlmMlJ5fhahhnRNSQw_AzMpE0x-6fZM4wEYT0Vfm0oViFm3-mXWKlnPDi2K5hQ_gTjdqzzA
+    url: https://arxiv.org/pdf/2012.14926.pdf
     display: IEEE Transactions on Power Systems 36.6 (2021)
   highlight: 1
   news2: See also [arXiv](https://arxiv.org/pdf/2012.14926.pdf)
+
+- title: "An Integrated Optimization Framework for Multi-Component Predictive Analytics in Wind Farm Operations & Maintenance"
+  image: RSER1.png
+  description: How to manage component level maintenance in large-scale wind farm operations? In this paper, an integrated framework that combines i) real-time degradation models used for predicting remaining life distribution of each component, with ii) mixed integer optimization models and solution algorithms used for identifying optimal wind farm maintenance and operations is proposed.
+  authors: Ilke Bakir, Murat Yildirim, Evrim Ursavas
+  link:
+    url: https://arxiv.org/pdf/2101.01084.pdf
+    display: Renewable and Sustainable Energy Reviews 138 (2021)
+  highlight: 1
+  news2:
+
+- title: "Optimal Multi-Type Inspection Policy for Systems with Imperfect Online Monitoring"
+  image: RSER1.png
+  description: N/A
+  authors: Liu, Xingchen, Qiuzhuang Sun, Zhi-Sheng Ye, and Murat Yildirim
+  link:
+    url: https://www.sciencedirect.com/science/article/pii/S0951832020308279
+    display: Reliability Engineering & System Safety 207 (2021)
+  highlight: 0
+  news2:
