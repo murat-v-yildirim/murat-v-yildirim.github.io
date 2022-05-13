@@ -10,21 +10,31 @@
   education5: BSs in Electrical Engineering, Georgia Institute of Technology
 
 - name: Farnaz Fallahi
-  photo: Murat.jpg
+  photo: Farnaz.png
   info: PhD Student, started Aug 2018
   email: farnaz.fallahi@wayne.edu
   number_educ: 3
   education1: Focus Area - Prognostics, Energy Systems Modeling, Large-Scale Optimization
-  education2: MSc in Industrial & Systems engineering, Sharif University of Technology, Iran
+  education2: MSc in Industrial & Systems Engineering, Sharif University of Technology, Iran
   education3: BSc in Pure Mathematics, AmirKabir University of Technology, Iran
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+- name: Nur Banu Altinpulluk
+  photo: NurBanu.png
+  info: PhD Student, started Aug 2019
+  email: nurbanu@wayne.edu
+  number_educ: 3
+  education1: Focus Area - Prognostics, Deep Learning, Interface of Machine Learning and Optimization
+  education2: MSc in Industrial Engineering, Middle East Technical University
+  education3: BSc in Industrial Engineering, Middle East Technical University
+
+- name: Deniz Altinpulluk
+  photo: Deniz.png
+  info: PhD Student, started Aug 2019
+  email: nurbanu@wayne.edu
+  number_educ: 3
+  education1: Focus Area - Prognostics, Robust Optimization, Energy and Mobility Systems
+  education2: MSc in Industrial Engineering, Middle East Technical University
+  education3: BSc in Industrial Engineering, Middle East Technical University
 
 - name: Jinwon Lee
   photo: Jinwon.jpg
