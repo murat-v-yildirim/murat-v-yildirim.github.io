@@ -12,7 +12,7 @@ permalink: /
 
 **Our Focus:** We focus on fundamental problems that revolves around advancing the integration of mathematical programming and data analytics in cyber physical application domains, including energy, mobility and manufacturing. Our research lies at the intersection of *Industrial/Electrical Engineering, Computer Science, and Operations Management*.
 
-**Our Ecosystem:** CPSL is thankful for its partners in universities (Georgia State, Oklahama State, Rutgers, Groningen, Georgia Tech, among others), national labs (Argonne and Sandia), and industry (Ford, Engie, Ontario Power Company, CB Solar, Ideal Energy, Waves4Power, Ocean Energy, among others). Please see below for an overview of the ecosystem.
+**Our Ecosystem:** CPSL is thankful for its partners in academia (Georgia State, Oklahama State, Rutgers, Groningen, Georgia Tech, among others), national labs (Argonne and Sandia), and industry (Ford, Engie, Ontario Power Company, CB Solar, Ideal Energy, Waves4Power, Ocean Energy, among others). Please see below for an overview of the ecosystem.
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Ecosystem.png){: style="width: 100%; float: center; margin: 0px"}
 
