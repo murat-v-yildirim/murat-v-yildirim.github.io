@@ -1,11 +1,11 @@
 - title: "A chance-constrained optimization framework for wind farms to manage fleet-level availability in condition based maintenance and operations"
-  image: Resilience.png
-  description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases impact of condition based maintenance on profitability, reliability and resilience.
+  image: chanceconst.png
+  description: How can we harness sensor driven insights to optimize farm-level profit and offer operational availability guarantees? This paper discusses how the sensor-driven insights can be integrated into operations and maintenance models in wind farm operations to synergize risk and revenue in wind energy.
   authors: Farnaz Fallahi, Ilke Bakir, Murat Yildirim, Zhisheng Ye
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9913699
     display: IEEE Transactions on Control of Network Systems (2022)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Differentially Private Decentralized Generator Maintenance and Operations for Power Networks"
@@ -35,7 +35,7 @@
   link:
     url: https://arxiv.org/pdf/2012.14926.pdf
     display: IEEE Transactions on Power Systems 36.6 (2021)
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Large-Scale Maintenance and Unit Commitment - A Decentralized Subgradient Approach"
