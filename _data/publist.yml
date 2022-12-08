@@ -1,6 +1,6 @@
 - title: "A chance-constrained optimization framework for wind farms to manage fleet-level availability in condition based maintenance and operations"
   image: Resilience.png
-  description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases the impact of condition based maintenance on profitability, reliability and resilience.
+  description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases impact of condition based maintenance on profitability, reliability and resilience.
   authors: Farnaz Fallahi, Ilke Bakir, Murat Yildirim, Zhisheng Ye
   link:
     url: https://ieeexplore.ieee.org/abstract/document/9913699
