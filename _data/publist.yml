@@ -35,7 +35,7 @@
   link:
     url: https://arxiv.org/pdf/2012.14926.pdf
     display: IEEE Transactions on Power Systems 36.6 (2021)
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Large-Scale Maintenance and Unit Commitment - A Decentralized Subgradient Approach"
