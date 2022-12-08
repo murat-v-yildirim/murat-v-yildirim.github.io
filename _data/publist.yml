@@ -1,3 +1,43 @@
+- title: "Robust Condition Based Production Planning: Embedding Multi-Component Degradation Interactions to Synergize Operations & Failure Risks"
+  image: chanceconst.png
+  description: How can we harness sensor driven insights to optimize farm-level profit and offer operational availability guarantees? This paper discusses how the sensor-driven insights can be integrated into operations and maintenance models in wind farm operations to synergize risk and revenue in wind energy.
+  authors: Deniz Altinpulluk, Farnaz Fallahi, Mohammad Javad Feizollahi, Murat Yildirim
+  link:
+    url: 
+    display: working paper, Manufacturing and Service Operations Management (2022)
+  highlight: 0
+  news2:
+
+- title: "to be released"
+  image: chanceconst.png
+  description: How can we harness sensor driven insights to optimize farm-level profit and offer operational availability guarantees? This paper discusses how the sensor-driven insights can be integrated into operations and maintenance models in wind farm operations to synergize risk and revenue in wind energy.
+  authors: Nur Banu Altinpulluk, Deniz Altinpulluk, Murat Yildirim, Feng Qiu
+  link:
+    url: 
+    display: working paper, Nature Energy (2022)
+  highlight: 0
+  news2:
+
+- title: "Revisiting Sensor-Driven Asset Management Models in Energy Systems: Implications for Full and Partial Transformation in Hydro Fleets"
+  image: chanceconst.png
+  description: How can we harness sensor driven insights to optimize farm-level profit and offer operational availability guarantees? This paper discusses how the sensor-driven insights can be integrated into operations and maintenance models in wind farm operations to synergize risk and revenue in wind energy.
+  authors: Farnaz Fallahi, Murat Yildirim, Feng Qiu, Shijia Zhou
+  link:
+    url: 
+    display: submitted, INFORMS Journal on Data Science (2022)
+  highlight: 0
+  news2:
+
+- title: "A Sensor-Driven Operations and Maintenance Planning Approach for Large-Scale Leased Manufacturing Systems"
+  image: chanceconst.png
+  description: How can we harness sensor driven insights to optimize farm-level profit and offer operational availability guarantees? This paper discusses how the sensor-driven insights can be integrated into operations and maintenance models in wind farm operations to synergize risk and revenue in wind energy.
+  authors: Sakir Karakaya, Murat Yildirim, Nagi Gebraeel, Tangbin Xia 
+  link:
+    url: 
+    display: submitted, International Journal of Production Economics (2022)
+  highlight: 0
+  news2:
+
 - title: "A chance-constrained optimization framework for wind farms to manage fleet-level availability in condition based maintenance and operations"
   image: chanceconst.png
   description: How can we harness sensor driven insights to optimize farm-level profit and offer operational availability guarantees? This paper discusses how the sensor-driven insights can be integrated into operations and maintenance models in wind farm operations to synergize risk and revenue in wind energy.
