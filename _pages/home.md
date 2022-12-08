@@ -16,7 +16,7 @@ permalink: /
 
 ![]({{ site.url }}{{ site.baseurl }}/images/Ecosystem.png){: style="width: 100%; float: center; margin: 0px"}
 
-**Our Projects:** *To date, CPSL's projects are supported through **$4.04M** in funding with a personal share of **$1.05M**.* This funding amount excludes any in-kind contributions, software donations or any relevant soft money that may be associated with the projects. We are grateful for the support of National Science Foundation (NSF), Department of Energy (DoE), Argonne National Laboratory (ANL), Ford Motor Company,  and Michigan Translational Research & Commercialization (MTRAC). Take a look at our research and projects: [Research](research).
+**Our Projects:** *To date, CPSL's projects are supported through **$4.54M** in funding with a personal share of **$1.15M**.* This funding amount excludes any in-kind contributions, software donations or any relevant soft money that may be associated with the projects. We are grateful for the support of National Science Foundation (NSF), Department of Energy (DoE), Argonne National Laboratory (ANL), Ford Motor Company,  and Michigan Translational Research & Commercialization (MTRAC). Take a look at our research and projects: [Research](research).
 
 
 <figure class="fourth">
