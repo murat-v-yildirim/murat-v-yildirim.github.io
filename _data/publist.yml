@@ -1,3 +1,33 @@
+- title: "A chance-constrained optimization framework for wind farms to manage fleet-level availability in condition based maintenance and operations"
+  image: Resilience.png
+  description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases the impact of condition based maintenance on profitability, reliability and resilience.
+  authors: Farnaz Fallahi, Ilke Bakir, Murat Yildirim, Zhisheng Ye
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9913699
+    display: IEEE Transactions on Control of Network Systems (2022)
+  highlight: 0
+  news2:
+
+- title: "Differentially Private Decentralized Generator Maintenance and Operations for Power Networks"
+  image: Resilience.png
+  description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases the impact of condition based maintenance on profitability, reliability and resilience.
+  authors: Paritosh Ramanan, Murat Yildirim, Nagi Gebraeel, Edmond Chow
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/9913699
+    display: IEEE Transactions on Control of Network Systems (2022)
+  highlight: 0
+  news2:
+
+- title: "A Stochastic Programming Model for Jointly Optimizing Maintenance and Spare Parts Inventory for IoT Applications"
+  image: Resilience.png
+  description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases the impact of condition based maintenance on profitability, reliability and resilience.
+  authors: Jasmin Shi, Heraldo Rozas, Murat Yildirim, Nagi Gebraeel
+  link:
+    url: https://www.tandfonline.com/doi/abs/10.1080/24725854.2022.2127164
+    display: IISE Transactions (2022)
+  highlight: 0
+  news2:
+
 - title: "Sensor-Driven Microgrid Generation Maintenance: Formulation and Impact on Operations & Resilience"
   image: Resilience.png
   description: How does condition-based maintenance impact resilience? In this paper we propose an integrated stochastic optimization model that jointly optimizes operations and maintenance in a multi-microgrid setting, and showcases the impact of condition based maintenance on profitability, reliability and resilience.
